@@ -1,0 +1,39 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Arthur Oliveira",
+      "email": "aoliveira@react.com"
+    },
+    {
+      "id": 2,
+      "name": "Maria Julia da Silva",
+      "email": "mjds@empresa.com"
+    },
+    {
+      "name": "Ana SIlva",
+      "email": "anasilva@react.com",
+      "id": 3
+    },
+    {
+      "name": "João Ricardo",
+      "email": "jricardo@react.com",
+      "id": 4
+    },
+    {
+      "name": "Yuri Lima",
+      "email": "yurilimalemes@gmail.com",
+      "id": 6
+    },
+    {
+      "name": "Fernando Lopes",
+      "email": "flopes@javascript.com",
+      "id": 7
+    },
+    {
+      "name": "Ecma Scripta",
+      "email": "ecma@script.com",
+      "id": 8
+    }
+  ]
+}
